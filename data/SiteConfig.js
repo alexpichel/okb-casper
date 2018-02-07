@@ -19,7 +19,7 @@ module.exports = {
   sitePaginationLimit: 25, // The max number of posts per page.
   googleAnalyticsID: "", // GA tracking ID.
   siteSocialUrls: [
-    "https://github.com/alexpichel/okb-casper",
+    "https://facebook.com",
     "https://twitter.com/ORKnowledgeBank",
     "mailto:okb@oregon.gov"
   ],
@@ -27,14 +27,14 @@ module.exports = {
   // Links to social profiles/projects you want to display in the navigation bar.
   userLinks: [
     {
-      label: "GitHub",
-      url: "https://github.com/alexpichel/okb-casper",
-      iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
+      label: "Request Research",
+      url: "mailto:okb@oregon.gov",
+      iconClassName: "fa fa-book" // Disabled, see Navigation.jsx
     },
     {
-      label: "Twitter",
+      label: "Submit Program",
       url: "https://twitter.com/ORKnowledgeBank",
-      iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
+      iconClassName: "fa fa-edit" // Disabled, see Navigation.jsx
     },
     {
       label: "Email",
