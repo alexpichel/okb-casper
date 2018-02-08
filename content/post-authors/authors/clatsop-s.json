@@ -1,0 +1,18 @@
+{
+  "id": "clatsop-s",
+  "name": "Clatsop County Sheriff's Office",
+  "image": "/logos/agency/",
+  "url": "http://www.co.clatsop.or.us/sheriff",
+  "officers": "56",
+  "population": "37039",
+  "chief": "Tom Bergin",
+  "location": "Warrenton",
+  "county": "Clatsop",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
