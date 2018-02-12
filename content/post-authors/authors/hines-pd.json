@@ -1,0 +1,18 @@
+{
+  "id": "hines-pd",
+  "name": "Hines Police Department",
+  "image": "/logos/agency/hines-pd.png",
+  "url": "http://ci.hines.or.us/police",
+  "officers": "",
+  "population": "1510",
+  "chief": "Neal Holste",
+  "location": "Hines",
+  "county": "Harney",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
