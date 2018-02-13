@@ -1,0 +1,18 @@
+{
+  "id": "hood-river-s",
+  "name": "Hood River County Sheriff's Office",
+  "image": "/logos/agency/hood-river-s.png",
+  "url": "http://www.hoodriversheriff.com/",
+  "officers": "26",
+  "population": "16560",
+  "chief": "Matt English",
+  "location": "Hood River",
+  "county": "Hood River",
+  "region": "Gorge",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
