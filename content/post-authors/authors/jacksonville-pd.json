@@ -1,0 +1,18 @@
+{
+  "id": "jacksonville-pd",
+  "name": "Jacksonville Police Department",
+  "image": "/logos/agency/jacksonville-pd.png",
+  "url": "http://www.jacksonvilleor.us/?page_id=8",
+  "officers": "5",
+  "population": "2816",
+  "chief": "David Towe",
+  "location": "Jacksonville",
+  "county": "Jackson",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
