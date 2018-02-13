@@ -1,0 +1,18 @@
+{
+  "id": "hubbard-pd",
+  "name": "Hubbard Police Department",
+  "image": "/logos/agency/hubbard-pd.png",
+  "url": "http://www.cityofhubbard.org/police",
+  "officers": "6",
+  "population": "3198",
+  "chief": "David Dryden",
+  "location": "Hubbard",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
