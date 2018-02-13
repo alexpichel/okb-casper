@@ -1,0 +1,18 @@
+{
+  "id": "grants-pass-pd",
+  "name": "Grants Pass Police Department",
+  "image": "/logos/agency/grants-pass-pd.png",
+  "url": "https://www.grantspassoregon.gov/188/Public-Safety",
+  "officers": "55",
+  "population": "35076",
+  "chief": "William Landis",
+  "location": "Grants Pass",
+  "county": "Josephine",
+  "region": "Southern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

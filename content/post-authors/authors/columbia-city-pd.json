@@ -1,0 +1,18 @@
+{
+  "id": "columbia-city-pd",
+  "name": "Columbia City Police Department",
+  "image": "/logos/agency/columbia-city-pd.png",
+  "url": "http://www.columbia-city.org/menupages/departments/police.html",
+  "officers": "5",
+  "population": "1800",
+  "chief": "Michael McGlothlin",
+  "location": "Columbia City",
+  "county": "Columbia",
+  "region": "Metro",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

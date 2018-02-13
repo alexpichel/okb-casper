@@ -1,0 +1,18 @@
+{
+  "id": "conf-tribes-pd",
+  "name": "Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians Police Department",
+  "image": "/logos/agency/conf-tribes-pd.png",
+  "url": "http://ctclusi.org/police",
+  "officers": "4",
+  "population": "526",
+  "chief": "Bradley Kneaper",
+  "location": "Florence",
+  "county": "Lane",
+  "region": "Coast",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

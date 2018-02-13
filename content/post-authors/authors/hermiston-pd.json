@@ -1,0 +1,18 @@
+{
+  "id": "hermiston-pd",
+  "name": "Hermiston Police Department",
+  "image": "/logos/agency/hermiston-pd.png",
+  "url": "http://www.hermiston.or.us/police/home",
+  "officers": "26",
+  "population": "17107",
+  "chief": "Jason Edmiston",
+  "location": "Hermiston",
+  "county": "Umatilla",
+  "region": "Eastern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

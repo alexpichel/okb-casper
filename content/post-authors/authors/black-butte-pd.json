@@ -1,0 +1,18 @@
+{
+  "id": "black-butte-pd",
+  "name": "Black Butte Ranch Police Department",
+  "image": "/logos/agency/black-butte-pd.png",
+  "url": "http://www.blackbutteranchpolice.com/",
+  "officers": "7",
+  "population": "366",
+  "chief": "Denney Kelley",
+  "location": "BLack Butte",
+  "county": "Deschutes",
+  "region": "Central",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "burns-pd",
+  "name": "Burns Police Department",
+  "image": "/logos/agency/burns-pd.png",
+  "url": "http://ci.burns.or.us/police.html",
+  "officers": "3",
+  "population": "3000",
+  "chief": "Newt Skunkcap",
+  "location": "Burns",
+  "county": "Harney",
+  "region": "Eastern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

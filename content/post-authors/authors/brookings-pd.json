@@ -1,0 +1,18 @@
+{
+  "id": "brookings-pd",
+  "name": "Brookings Police Department",
+  "image": "/logos/agency/brookings-pd.png",
+  "url": "http://www.brookings.or.us/index.aspx?NID=134",
+  "officers": "24",
+  "population": "6316",
+  "chief": "Chris Wallace",
+  "location": "Brookings",
+  "county": "Curry",
+  "region": "Coast",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

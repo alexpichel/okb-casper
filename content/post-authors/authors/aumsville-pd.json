@@ -1,0 +1,18 @@
+{
+  "id": "aumsville-pd",
+  "name": "Aumsville Police Department",
+  "image": "/logos/agency/",
+  "url": "http://www.aumsville.us/police-department.html",
+  "officers": "6",
+  "population": "3812",
+  "chief": "Richard Schmitz",
+  "location": "Aumsville",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

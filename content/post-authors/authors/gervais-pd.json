@@ -1,0 +1,18 @@
+{
+  "id": "gervais-pd",
+  "name": "Gervais Police Department",
+  "image": "/logos/agency/gervais-pd.png",
+  "url": "http://www.gervaisoregon.org/police.html",
+  "officers": "5",
+  "population": "2550",
+  "chief": "Peter Spirup",
+  "location": "Gervais",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

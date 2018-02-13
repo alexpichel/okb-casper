@@ -1,0 +1,18 @@
+{
+  "id": "dallas-pd",
+  "name": "Dallas Police Department",
+  "image": "/logos/agency/dallas-pd.png",
+  "url": "http://www.ci.dallas.or.us/123/Police",
+  "officers": "18",
+  "population": "14807",
+  "chief": "Tom Simpson",
+  "location": "Dallas",
+  "county": "Polk",
+  "region": "Willamette Valley",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

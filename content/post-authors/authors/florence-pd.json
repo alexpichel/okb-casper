@@ -1,0 +1,18 @@
+{
+  "id": "florence-pd",
+  "name": "Florence Police Department",
+  "image": "/logos/agency/florence-pd.png",
+  "url": "http://www.ci.florence.or.us/police/welcome-florence-police-department",
+  "officers": "14",
+  "population": "8469",
+  "chief": "Thomas Turner",
+  "location": "Florence",
+  "county": "Lane",
+  "region": "Coast",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

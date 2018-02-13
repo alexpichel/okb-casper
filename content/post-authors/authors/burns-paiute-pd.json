@@ -1,0 +1,18 @@
+{
+  "id": "burns-paiute-pd",
+  "name": "Burns Paiute Tribal Police Department",
+  "image": "/logos/agency/burns-paiute-pd.png",
+  "url": "http://okb.oregon.gov/agency/bptribal-pd/",
+  "officers": "3",
+  "population": "2728",
+  "chief": "Carmen Smith",
+  "location": "Burns",
+  "county": "Harney",
+  "region": "Eastern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

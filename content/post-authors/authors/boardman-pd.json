@@ -1,0 +1,18 @@
+{
+  "id": "boardman-pd",
+  "name": "Boardman Police Department",
+  "image": "/logos/agency/boardman-pd.png",
+  "url": "http://www.cityofboardman.com/police",
+  "officers": "10",
+  "population": "3379",
+  "chief": "Rick Stokoe",
+  "location": "Boardman",
+  "county": "Morrow",
+  "region": "Eastern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

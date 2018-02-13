@@ -1,0 +1,18 @@
+{
+  "id": "central-point-pd",
+  "name": "Central Point Police Department",
+  "image": "/logos/agency/central-point-pd.png",
+  "url": "http://www.centralpointoregon.gov/police",
+  "officers": "25",
+  "population": "17600",
+  "chief": "Kris Allison",
+  "location": "Central Point",
+  "county": "Jackson",
+  "region": "Southern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

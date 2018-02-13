@@ -1,0 +1,18 @@
+{
+  "id": "corvallis-pd",
+  "name": "Corvallis Police Department",
+  "image": "/logos/agency/corvallis-pd.png",
+  "url": "http://www.corvallisoregon.gov/index.aspx?page=58",
+  "officers": "57",
+  "population": "55298",
+  "chief": "Jon Sassaman",
+  "location": "Corvallis",
+  "county": "Benton",
+  "region": "Willamette Valley",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

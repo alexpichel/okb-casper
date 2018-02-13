@@ -1,0 +1,18 @@
+{
+  "id": "harney-cc",
+  "name": "Harney County Community Corrections",
+  "image": "/logos/agency/harney-cc.png",
+  "url": "http://www.co.harney.or.us/communitycorrections.html",
+  "officers": "5",
+  "population": "7146",
+  "chief": "Roger Stampke",
+  "location": "Burns",
+  "county": "Harney",
+  "region": "Eastern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gilliam-s",
+  "name": "Gilliam County Sheriff's Office",
+  "image": "/logos/agency/gilliam-s.png",
+  "url": "http://www.co.gilliam.or.us/sheriff.html",
+  "officers": "5",
+  "population": "1280",
+  "chief": "Gary Bettencourt",
+  "location": "Condon",
+  "county": "Gilliam",
+  "region": "Gorge",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

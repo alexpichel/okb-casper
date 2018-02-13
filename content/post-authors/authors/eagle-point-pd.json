@@ -1,0 +1,18 @@
+{
+  "id": "eagle-point-pd",
+  "name": "Eagle Point Police Department",
+  "image": "/logos/agency/eagle-point-pd.png",
+  "url": "http://www.cityofeaglepoint.org/index.aspx?nid=118",
+  "officers": "11",
+  "population": "8671",
+  "chief": "Vern Thompson",
+  "location": "Eagle Point",
+  "county": "Jackson",
+  "region": "Southern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

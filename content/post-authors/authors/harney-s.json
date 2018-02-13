@@ -1,0 +1,18 @@
+{
+  "id": "harney-s",
+  "name": "Harney County Sheriff's Office",
+  "image": "/logos/agency/harney-s.png",
+  "url": "http://www.co.harney.or.us/index.php/features/sheriff-s-office",
+  "officers": "17",
+  "population": "7422",
+  "chief": "David Ward",
+  "location": "Burns",
+  "county": "Harney",
+  "region": "Eastern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

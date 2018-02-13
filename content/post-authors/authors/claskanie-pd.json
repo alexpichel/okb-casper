@@ -1,0 +1,18 @@
+{
+  "id": "clatskanie-pd",
+  "name": "Clatskanie Police Department",
+  "image": "/logos/agency/clatskanie-pd.png",
+  "url": "http://cityofclatskanie.com/citydepartments/police.html",
+  "officers": "3",
+  "population": "1745",
+  "chief": "Stanley Grubbs",
+  "location": "Clatskanie",
+  "county": "Columbia",
+  "region": "Metro",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "clackamas-s",
+  "name": "Clackamas County Sheriff's Office",
+  "image": "/logos/agency/clackamas-s.png",
+  "url": "http://www.clackamas.us/sheriff/",
+  "officers": "358",
+  "population": "211653",
+  "chief": "Craig Roberts",
+  "location": "Oregon City",
+  "county": "Clackamas",
+  "region": "Metro",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

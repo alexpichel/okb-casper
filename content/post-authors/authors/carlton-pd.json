@@ -1,0 +1,18 @@
+{
+  "id": "carlton-pd",
+  "name": "Carlton Police Department",
+  "image": "/logos/agency/carlton-pd.png",
+  "url": "http://www.ci.carlton.or.us/police",
+  "officers": "3",
+  "population": "2023",
+  "chief": "Kevin Martinez",
+  "location": "Carlton",
+  "county": "Yamhill",
+  "region": "Willamette Valley",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

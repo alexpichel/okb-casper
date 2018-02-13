@@ -1,0 +1,18 @@
+{
+  "id": "grant-cc",
+  "name": "Grant County Community Correction",
+  "image": "/logos/agency/grant-cc.png",
+  "url": "http://www.gcoregonlive2.com/svc_display.php?id=545",
+  "officers": "2",
+  "population": "7283",
+  "chief": "Dean Hoodenpyl",
+  "location": "Canyon City",
+  "county": "Grant",
+  "region": "Eastern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

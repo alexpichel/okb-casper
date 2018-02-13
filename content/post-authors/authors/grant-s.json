@@ -1,0 +1,18 @@
+{
+  "id": "grant-s",
+  "name": "Grant County Sheriff's Office",
+  "image": "/logos/agency/grant-s.png",
+  "url": "http://www.gcoregonlive2.com/svc_display.php?id=654",
+  "officers": "16",
+  "population": "7445",
+  "chief": "Glenn E. Palmer",
+  "location": "Canyon City",
+  "county": "Grant",
+  "region": "Eastern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

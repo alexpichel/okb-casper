@@ -1,0 +1,18 @@
+{
+  "id": "curry-s",
+  "name": "Curry County Sheriff's Office",
+  "image": "/logos/agency/curry-s.png",
+  "url": "http://www.co.curry.or.us/government/county_sheriff/index.php",
+  "officers": "38",
+  "population": "22248",
+  "chief": "John Ward",
+  "location": "Gold Beach",
+  "county": "Curry",
+  "region": "Coast",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

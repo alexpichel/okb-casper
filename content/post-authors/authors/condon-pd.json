@@ -1,0 +1,18 @@
+{
+  "id": "condon-pd",
+  "name": "Condon Police Department",
+  "image": "/logos/agency/condon-pd.png",
+  "url": "http://cityofcondon.com/fire-police/",
+  "officers": "1",
+  "population": "709",
+  "chief": "Dale Scobert",
+  "location": "Condon",
+  "county": "Gilliam",
+  "region": "Gorge",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

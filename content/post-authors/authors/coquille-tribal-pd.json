@@ -1,0 +1,18 @@
+{
+  "id": "coquille-tribal-pd",
+  "name": "Coquille Tribal Police",
+  "image": "/logos/agency/coquille-tribal-pd.png",
+  "url": "http://www.coquilletribe.org/?page_id=1215",
+  "officers": "4",
+  "population": "",
+  "chief": "Scott LaFevre",
+  "location": "Coquille",
+  "county": "Coos",
+  "region": "Coast",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

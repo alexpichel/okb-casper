@@ -1,0 +1,18 @@
+{
+  "id": "eugene-pd",
+  "name": "Eugene Police Department",
+  "image": "/logos/agency/eugene-pd.png",
+  "url": "https://www.eugene-or.gov/162/Police",
+  "officers": "198",
+  "population": "159190",
+  "chief": "Pete Kerns",
+  "location": "Eugene",
+  "county": "Lane",
+  "region": "Willamette Valley",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

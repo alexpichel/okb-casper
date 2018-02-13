@@ -1,0 +1,18 @@
+{
+  "id": "coos-bay-pd",
+  "name": "Coos Bay Police Department",
+  "image": "/logos/agency/coos-bay-pd.png",
+  "url": "http://coosbay.org/departments/police",
+  "officers": "29",
+  "population": "15903",
+  "chief": "Gary McCullough",
+  "location": "Coos Bay",
+  "county": "Coos",
+  "region": "Coast",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

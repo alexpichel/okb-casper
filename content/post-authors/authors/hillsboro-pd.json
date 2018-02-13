@@ -1,0 +1,18 @@
+{
+  "id": "hillsboro-pd",
+  "name": "Hillsboro Police Department",
+  "image": "/logos/agency/hillsboro-pd.png",
+  "url": "http://www.hillsboro-oregon.gov/departments/police",
+  "officers": "133",
+  "population": "97368",
+  "chief": "Lee Debrowolski",
+  "location": "Hillsboro",
+  "county": "Washington",
+  "region": "Metro",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

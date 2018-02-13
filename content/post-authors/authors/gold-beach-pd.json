@@ -1,0 +1,18 @@
+{
+  "id": "gold-beach-pd",
+  "name": "Gold Beach Police Department",
+  "image": "/logos/agency/gold-beach-pd.png",
+  "url": "http://www.goldbeachoregon.gov/index.asp?Type=B_BASIC&SEC=%7B99078B78-CEF7-4542-BE7F-7C19F03CDACC%7D",
+  "officers": "6",
+  "population": "2257",
+  "chief": "Dixon Andrews",
+  "location": "Gold Beach",
+  "county": "Curry",
+  "region": "Coast",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

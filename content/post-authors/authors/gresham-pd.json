@@ -1,0 +1,18 @@
+{
+  "id": "gresham-pd",
+  "name": "Gresham Police Department",
+  "image": "/logos/agency/gresham-pd.png",
+  "url": "https://greshamoregon.gov/Police-Services-and-Resources/",
+  "officers": "127",
+  "population": "109397",
+  "chief": "Robin Sells",
+  "location": "Gresham",
+  "county": "Multnomah",
+  "region": "Metro",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

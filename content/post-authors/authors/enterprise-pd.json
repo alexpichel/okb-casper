@@ -1,0 +1,18 @@
+{
+  "id": "enterprise-pd",
+  "name": "Enterprise Police Department",
+  "image": "/logos/agency/enterprise-pd.png",
+  "url": "http://www.enterpriseoregon.org/index.php/services/police-department",
+  "officers": "7",
+  "population": "2000",
+  "chief": "Joel Fish Jr.",
+  "location": "Enterprise",
+  "county": "Wallowa",
+  "region": "Eastern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

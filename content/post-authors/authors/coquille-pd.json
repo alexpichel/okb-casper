@@ -1,0 +1,18 @@
+{
+  "id": "coquille-pd",
+  "name": "Coquille Police Department",
+  "image": "/logos/agency/coquille-pd.png",
+  "url": "http://www.cityofcoquille.org/public_safety/police.php",
+  "officers": "8",
+  "population": "3800",
+  "chief": "",
+  "location": "Coquille",
+  "county": "Coos",
+  "region": "Coast",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

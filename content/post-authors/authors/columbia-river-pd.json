@@ -1,0 +1,18 @@
+{
+  "id": "columbia-river-pd",
+  "name": "Columbia River Inter-Tribal Police",
+  "image": "/logos/agency/columbia-river-pd.png",
+  "url": "http://www.critfc.org/",
+  "officers": "13",
+  "population": "0",
+  "chief": "Mitchell Hicks",
+  "location": "Hood River",
+  "county": "Hood River",
+  "region": "Gorge",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "crook-s",
+  "name": "Crook County Sheriff's Office",
+  "image": "/logos/agency/crook-s.png",
+  "url": "http://www.crookcountysheriff.com/",
+  "officers": "27",
+  "population": "11625",
+  "chief": "John Gautney",
+  "location": "Prineville",
+  "county": "Crook",
+  "region": "Central",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

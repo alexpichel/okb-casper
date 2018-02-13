@@ -1,0 +1,18 @@
+{
+  "id": "bend-pd",
+  "name": "Bend Police Department",
+  "image": "/logos/agency/bend-pd.png",
+  "url": "http://www.bend.or.us/index.aspx?page=49",
+  "officers": "93",
+  "population": "81236",
+  "chief": "Jim Porter",
+  "location": "Bend",
+  "county": "Deschutes",
+  "region": "Central",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

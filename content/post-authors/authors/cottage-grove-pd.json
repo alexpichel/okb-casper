@@ -1,0 +1,18 @@
+{
+  "id": "cottage-grove-pd",
+  "name": "Cottage Groce Police Department",
+  "image": "/logos/agency/cottage-grove-pd.png",
+  "url": "http://cottagegrove.org/police",
+  "officers": "16",
+  "population": "9795",
+  "chief": "Scott Shepherd",
+  "location": "Cottage Grove",
+  "county": "Lane",
+  "region": "Willamette Valley",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

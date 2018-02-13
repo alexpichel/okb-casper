@@ -1,0 +1,18 @@
+{
+  "id": "clackamas-cc",
+  "name": "Clackamas Community Corrections",
+  "image": "/logos/agency/clackamas-cc.png",
+  "url": "http://www.clackamas.us/corrections/",
+  "officers": "0",
+  "population": "388263",
+  "chief": "Jenna Morrison",
+  "location": "Oregon City",
+  "county": "Clackamas",
+  "region": "Metro",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

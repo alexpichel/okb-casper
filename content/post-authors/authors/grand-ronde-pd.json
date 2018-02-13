@@ -1,0 +1,18 @@
+{
+  "id": "grand-ronde-pd",
+  "name": "Grand Ronde Tribal Police Department",
+  "image": "/logos/agency/grand-ronde-pd.png",
+  "url": "http://www.grandronde.org/about/tribal-police/",
+  "officers": "7",
+  "population": "55",
+  "chief": "Jake McKnight",
+  "location": "Grand Ronde",
+  "county": "Polk",
+  "region": "Willamette Valley",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

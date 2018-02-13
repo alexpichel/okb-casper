@@ -1,0 +1,18 @@
+{
+  "id": "bandon-pd",
+  "name": "Bandon Police Department",
+  "image": "/logos/agency/bandon-pd.png",
+  "url": "http://www.cityofbandon.org/general/page/police-department",
+  "officers": "6",
+  "population": "3057",
+  "chief": "Bob Webb",
+  "location": "Bandon",
+  "county": "Coos",
+  "region": "Coast",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

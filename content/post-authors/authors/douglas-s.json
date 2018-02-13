@@ -1,0 +1,18 @@
+{
+  "id": "douglas-s",
+  "name": "Douglas County Sheriff's Office",
+  "image": "/logos/agency/douglas-s.png",
+  "url": "http://www.dcso.com/",
+  "officers": "108",
+  "population": "66395",
+  "chief": "John Hanlin",
+  "location": "Roseburg",
+  "county": "Douglas",
+  "region": "Southern",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
