@@ -1,0 +1,18 @@
+{
+  "id": "jefferson-s",
+  "name": "Jefferson County Sheriff's Office",
+  "image": "/logos/agency/jefferson-s.png",
+  "url": "https://www.jeffco.net/sheriff",
+  "officers": "44",
+  "population": "21749",
+  "chief": "Jim Adkins",
+  "location": "Madras",
+  "county": "Jefferson",
+  "region": "Central",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
