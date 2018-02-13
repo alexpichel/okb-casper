@@ -1,0 +1,18 @@
+{
+  "id": "hood-river-pd",
+  "name": "Hood River Police Department",
+  "image": "/logos/agency/hood-river-pd.png",
+  "url": "http://ci.hood-river.or.us/pageview.aspx?id=19335",
+  "officers": "16",
+  "population": "7500",
+  "chief": "Neal Holste",
+  "location": "Hood River",
+  "county": "Hood River",
+  "region": "Gorge",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
