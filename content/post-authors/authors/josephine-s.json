@@ -1,0 +1,18 @@
+{
+  "id": "josephine-s",
+  "name": "Josephine County Sheriff's Office",
+  "image": "/logos/agency/",
+  "url": "http://www.co.josephine.or.us/SectionIndex.asp?SectionID=180",
+  "officers": "26",
+  "population": "47255",
+  "chief": "Dave Daniel",
+  "location": "Grants Pass",
+  "county": "Josephine",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
