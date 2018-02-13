@@ -1,0 +1,18 @@
+{
+  "id": "john-day-pd",
+  "name": "John Day Police Department",
+  "image": "/logos/agency/john-day-pd.png",
+  "url": "http://www.gcoregonlive2.com/svc_display.php?id=733",
+  "officers": "9",
+  "population": "1745",
+  "chief": "Richard Gray",
+  "location": "John Day",
+  "county": "Grant",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
