@@ -1,0 +1,18 @@
+{
+  "id": "jackson-s",
+  "name": "Jackson County Sheriff's Office",
+  "image": "/logos/agency/jackson-s.png",
+  "url": "http://jacksoncountyor.org/sheriff",
+  "officers": "116",
+  "population": "70395",
+  "chief": "Corey Falls",
+  "location": "Central Point",
+  "county": "Jackson",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
