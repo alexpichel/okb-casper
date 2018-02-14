@@ -1,0 +1,18 @@
+{
+  "id": "keizer-pd",
+  "name": "Keizer Police Department",
+  "image": "/logos/agency/keizer-pd.png",
+  "url": "http://www.keizer.org/Police/",
+  "officers": "38",
+  "population": "37064",
+  "chief": "John Teague",
+  "location": "Keizer",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
