@@ -1,0 +1,18 @@
+{
+  "id": "king-city-pd",
+  "name": "King City Police Department",
+  "image": "/logos/agency/king-city-pd.png",
+  "url": "http://ci.king-city.or.us/police/",
+  "officers": "6",
+  "population": "3498",
+  "chief": "Charles Fessler",
+  "location": "King City",
+  "county": "Washington",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
