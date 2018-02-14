@@ -1,0 +1,18 @@
+{
+  "id": "lakeview-pd",
+  "name": "Lakeview Police Department",
+  "image": "/logos/agency/lakeview-pd.png",
+  "url": "http://www.lakevieworegon.org/policedepartment.html",
+  "officers": "5",
+  "population": "2287",
+  "chief": "Travis Grindle",
+  "location": "Lakeview",
+  "county": "Lake",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

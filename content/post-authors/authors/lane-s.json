@@ -1,0 +1,18 @@
+{
+  "id": "lane-s",
+  "name": "Lane County Sheriff's Office",
+  "image": "/logos/agency/lane-s.png",
+  "url": "http://www.lanecounty.org/Departments/Sheriff/Pages/default.aspx",
+  "officers": "198",
+  "population": "109955",
+  "chief": "Byron Trapp",
+  "location": "Eugene",
+  "county": "Lane",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lake-oswego-pd",
+  "name": "Lake Oswego Police Department",
+  "image": "/logos/agency/lake-oswego-pd.png",
+  "url": "https://www.ci.oswego.or.us/police",
+  "officers": "46",
+  "population": "37610",
+  "chief": "Don Johnson",
+  "location": "Lake Oswego",
+  "county": "Multnomah",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

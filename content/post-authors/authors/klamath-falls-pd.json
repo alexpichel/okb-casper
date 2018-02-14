@@ -1,0 +1,18 @@
+{
+  "id": "klamath-falls-pd",
+  "name": "Klamath Falls Police Department",
+  "image": "/logos/agency/klamath-falls-pd.png",
+  "url": "http://www.kfpd.us/",
+  "officers": "44",
+  "population": "21465",
+  "chief": "David Henslee",
+  "location": "Klamath Falls",
+  "county": "Klamath",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}

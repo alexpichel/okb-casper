@@ -1,0 +1,18 @@
+{
+  "id": "lake-s",
+  "name": "Lake County Sheriff's Office",
+  "image": "/logos/agency/lake-s.png",
+  "url": "http://www.lakecountyor.org/government/sheriff.php",
+  "officers": "27",
+  "population": "7895",
+  "chief": "Michael Taylor",
+  "location": "Silver Lake",
+  "county": "Lake",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
