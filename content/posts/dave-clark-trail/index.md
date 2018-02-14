@@ -1,7 +1,7 @@
 ---
 title: "Dave Clark Trail"
 cover: "/logos/policing.png"
-author: "okb"
+author: "albany-pd"
 date: "01/27/2016"
 category: "Policing"
 tags:
