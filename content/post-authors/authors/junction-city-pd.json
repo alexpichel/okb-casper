@@ -1,0 +1,18 @@
+{
+  "id": "junction-city-pd",
+  "name": "Junction City Police Department",
+  "image": "/logos/agency/junction-city-pd.png",
+  "url": "http://www.junctioncityoregon.gov/index.asp?Type=B_BASIC&SEC=%7B5818DBD5-14F1-4489-948F-7354EA0299F9%7D",
+  "officers": "",
+  "population": "5651",
+  "chief": "Ken Summers",
+  "location": "Junction City",
+  "county": "Lane",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
