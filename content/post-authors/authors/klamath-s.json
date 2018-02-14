@@ -1,0 +1,18 @@
+{
+  "id": "klamath-s",
+  "name": "Klamath County Sheriff's Office",
+  "image": "/logos/agency/klamath-s.png",
+  "url": "http://sheriff.klamathcounty.org/291/Sheriffs-Office",
+  "officers": "74",
+  "population": "66380",
+  "chief": "Chris Kaber",
+  "location": "Klamath Falls",
+  "county": "Klamath",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
