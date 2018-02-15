@@ -1,0 +1,18 @@
+{
+  "id": "lebanon-pd",
+  "name": "Lebanon Police Department",
+  "image": "/logos/agency/lebanon-pd.png",
+  "url": "http://www.ci.lebanon.or.us/police",
+  "officers": "26",
+  "population": "15930",
+  "chief": "Frank Stevenson",
+  "location": "Lebanon",
+  "county": "Linn",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
