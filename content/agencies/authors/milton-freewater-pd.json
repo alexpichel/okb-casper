@@ -1,0 +1,18 @@
+{
+  "id": "milton-freewater-pd",
+  "name": "Milton-Freewater Police Department",
+  "image": "/logos/agency/milton-freewater-pd.png",
+  "url": "http://www.mfcity.com/police",
+  "officers": "11",
+  "population": "7099",
+  "chief": "Doug Boedigheimer",
+  "location": "Milton-Freewater",
+  "county": "Umatilla",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
