@@ -1,0 +1,18 @@
+{
+  "id": "mcminnville-pd",
+  "name": "McMinnville Police Department",
+  "image": "/logos/agency/mcminnville-pd.png",
+  "url": "http://www.mcminnvilleoregon.gov/police",
+  "officers": "37",
+  "population": "33131",
+  "chief": "Matt Scales",
+  "location": "McMinnville",
+  "county": "Yamhill",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
