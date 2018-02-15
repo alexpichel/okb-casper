@@ -1,0 +1,18 @@
+{
+  "id": "lincoln-city-pd",
+  "name": "Lincoln City Police Department",
+  "image": "/logos/agency/lincoln-city-pd.png",
+  "url": "http://www.lincolncity.org/index.asp?SEC=6FD65D2A-4A24-416D-A602-11C6FA3B58A2",
+  "officers": "29",
+  "population": "8000",
+  "chief": "Keith Kilian",
+  "location": "Lincoln City",
+  "county": "Lincoln",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
