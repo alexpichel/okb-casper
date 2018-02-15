@@ -1,0 +1,18 @@
+{
+  "id": "medford-pd",
+  "name": "Medford Police Department",
+  "image": "/logos/agency/medford-pd.png",
+  "url": "http://www.ci.medford.or.us/SectionIndex.asp?SectionID=7",
+  "officers": "102",
+  "population": "77677",
+  "chief": "Randy Sparacino",
+  "location": "Medford",
+  "county": "Jackson",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
