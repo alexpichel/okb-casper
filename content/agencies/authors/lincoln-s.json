@@ -1,0 +1,18 @@
+{
+  "id": "lincoln-s",
+  "name": "Lincoln County Sheriff's Office",
+  "image": "/logos/agency/lincoln-s.png",
+  "url": "http://www.co.lincoln.or.us/sheriff",
+  "officers": "63",
+  "population": "25085",
+  "chief": "Curtis Landers",
+  "location": "Newport",
+  "county": "Lincoln",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
