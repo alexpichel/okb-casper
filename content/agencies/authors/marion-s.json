@@ -1,0 +1,18 @@
+{
+  "id": "marion-s",
+  "name": "Marion County Sheriff's Office",
+  "image": "/logos/agency/marion-s.png",
+  "url": "http://www.co.marion.or.us/SO",
+  "officers": "224",
+  "population": "100597",
+  "chief": "Jason Myers",
+  "location": "Salem",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
