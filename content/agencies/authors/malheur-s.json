@@ -1,0 +1,18 @@
+{
+  "id": "malheur-s",
+  "name": "Malheur County Sheriff's Office",
+  "image": "/logos/agency/malheur-s.png",
+  "url": "http://www.malheursheriff.com/home",
+  "officers": "41",
+  "population": "16730",
+  "chief": "Brian Wolfe",
+  "location": "Vale",
+  "county": "Malheur",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
