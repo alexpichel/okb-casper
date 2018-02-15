@@ -1,0 +1,18 @@
+{
+  "id": "merrill-pd",
+  "name": "Merrill Police Department",
+  "image": "/logos/agency/merrill-pd.png",
+  "url": "http://www.cityofmerrill.org/departments/police-department",
+  "officers": "2",
+  "population": "832",
+  "chief": "Brian Bicknell",
+  "location": "Merrill",
+  "county": "Klamath",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
