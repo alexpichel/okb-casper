@@ -1,0 +1,18 @@
+{
+  "id": "madras-pd",
+  "name": "Madras Police Department",
+  "image": "/logos/agency/madras-pd.png",
+  "url": "https://www.ci.madras.or.us/police",
+  "officers": "17",
+  "population": "6585",
+  "chief": "Tanner Stanfill",
+  "location": "Madras",
+  "county": "Jefferson",
+  "region": "Central",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
