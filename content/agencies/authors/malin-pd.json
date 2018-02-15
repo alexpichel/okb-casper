@@ -1,0 +1,18 @@
+{
+  "id": "malin-pd",
+  "name": "Malin Police Department",
+  "image": "/logos/agency/malin-pd.png",
+  "url": "http://www.cityofmalin.org/ContactUs/tabid/5780/language/en-US/Default.aspx",
+  "officers": "7",
+  "population": "792",
+  "chief": "Ronald Broussard",
+  "location": "Malin",
+  "county": "Klamath",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
