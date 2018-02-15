@@ -1,0 +1,18 @@
+{
+  "id": "manzanita-pd",
+  "name": "Manzanita Police Department",
+  "image": "/logos/agency/manzanita-pd.png",
+  "url": "http://www.ci.manzanita.or.us/3Services/PublicSafety/publicsafety.html",
+  "officers": "4",
+  "population": "613",
+  "chief": "Erik Harth",
+  "location": "Manzanita",
+  "county": "Tillamook",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
