@@ -1,0 +1,18 @@
+{
+  "id": "linn-s",
+  "name": "Linn County Sheriff's Office",
+  "image": "/logos/agency/linn-s.png",
+  "url": "https://www.linnsheriff.org/",
+  "officers": "99",
+  "population": "51627",
+  "chief": "Bruce Riley",
+  "location": "Albany",
+  "county": "Linn",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
