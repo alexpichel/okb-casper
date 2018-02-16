@@ -1,0 +1,18 @@
+{
+  "id": "morrow-s",
+  "name": "Morrow County Sheriff's Office",
+  "image": "/logos/agency/morrow-s.png",
+  "url": "http://morrowcountyoregon.com/sheriff-dep/",
+  "officers": "3",
+  "population": "8125",
+  "chief": "Kenneth Matlack",
+  "location": "Heppner",
+  "county": "Morrow",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
