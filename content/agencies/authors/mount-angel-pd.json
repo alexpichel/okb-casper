@@ -1,0 +1,18 @@
+{
+  "id": "mount-angel-pd",
+  "name": "Mount Angel Police Department",
+  "image": "/logos/agency/mount-angel-pd.png",
+  "url": "http://www.ci.mt-angel.or.us/general/page/police",
+  "officers": "7",
+  "population": "3405",
+  "chief": "Michael Healy",
+  "location": "Mt. Angel",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
