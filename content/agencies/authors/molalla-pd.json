@@ -1,0 +1,18 @@
+{
+  "id": "molalla-pd",
+  "name": "Molalla Police Department",
+  "image": "/logos/agency/molalla-pd.png",
+  "url": "http://www.cityofmolalla.com/police",
+  "officers": "13",
+  "population": "8304",
+  "chief": "Rod Lucich",
+  "location": "Molalla",
+  "county": "Clackamas",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
