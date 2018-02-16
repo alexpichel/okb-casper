@@ -1,0 +1,18 @@
+{
+  "id": "milwaukie-pd",
+  "name": "Milwaukie Police Department",
+  "image": "/logos/agency/milwaukie-pd.png",
+  "url": "http://www.milwaukieoregon.gov/police/milwaukie-police-department",
+  "officers": "38",
+  "population": "20512",
+  "chief": "Steve Bartol",
+  "location": "Milwaukie",
+  "county": "Clackamas",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
