@@ -1,0 +1,18 @@
+{
+  "id": "monmouth-pd",
+  "name": "Monmouth Police Department",
+  "image": "/logos/agency/monmouth-pd.png",
+  "url": "http://www.ci.monmouth.or.us/pView.aspx?id=4746&catid=552",
+  "officers": "14",
+  "population": "9906",
+  "chief": "Darrell Tallan",
+  "location": "Monmouth",
+  "county": "Polk",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
