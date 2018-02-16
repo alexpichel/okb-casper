@@ -1,0 +1,18 @@
+{
+  "id": "mult-dcj",
+  "name": "Multnomah County Department of Coommunity Justice",
+  "image": "/logos/agency/mult-dcj.png",
+  "url": "https://multco.us/dcj",
+  "officers": "700",
+  "population": "766135",
+  "chief": "Scott Taylor",
+  "location": "Portland",
+  "county": "Multnomah",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
