@@ -1,0 +1,18 @@
+{
+  "id": "union-pacific",
+  "name": "Union Pacific Railroad Police",
+  "image": "/logos/agency/union-pacific.png",
+  "url": "",
+  "officers": 224,
+  "population": 44500,
+  "chief": "",
+  "location": "Portland",
+  "county": "Multnomah",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
