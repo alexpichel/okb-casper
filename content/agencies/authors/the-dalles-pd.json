@@ -1,0 +1,18 @@
+{
+  "id": "the-dalles-pd",
+  "name": "The Dalles Police Department",
+  "image": "/logos/agency/the-dalles-pd.png",
+  "url": "http://www.ci.the-dalles.or.us/police.htm",
+  "officers": 23,
+  "population": 15158,
+  "chief": "Patrick Ashmore",
+  "location": "The Dalles",
+  "county": "Wasco",
+  "region": "Gorge",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
