@@ -1,0 +1,18 @@
+{
+  "id": "us-a",
+  "name": "United States Attorney's Office for Oregon",
+  "image": "/logos/agency/us-a.png",
+  "url": "https://www.justice.gov/usao-or",
+  "officers": 0,
+  "population": 0,
+  "chief": "Billy Williams",
+  "location": "Portland",
+  "county": "Multnomah",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
