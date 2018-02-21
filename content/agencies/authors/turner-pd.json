@@ -1,0 +1,18 @@
+{
+  "id": "turner-pd",
+  "name": "Turner Police Department",
+  "image": "/logos/agency/turner-pd.png",
+  "url": "http://www.cityofturner.org/index.asp?Type=B_BASIC&SEC=%7BFD7B369B-219F-4319-ACA8-57CC4F3F0729%7D",
+  "officers": 2,
+  "population": 1893,
+  "chief": "Don Taylor",
+  "location": "Turner",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
