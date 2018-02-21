@@ -1,0 +1,18 @@
+{
+  "id": "umatilla-pd",
+  "name": "Umatilla Police Department",
+  "image": "/logos/agency/umatilla-pd.png",
+  "url": "http://www.umatilla.bobcop.com/",
+  "officers": 11,
+  "population": 7002,
+  "chief": "Darla Huxel",
+  "location": "Umatilla",
+  "county": "Umatilla",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
