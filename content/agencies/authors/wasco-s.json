@@ -1,0 +1,18 @@
+{
+  "id": "wasco-s",
+  "name": "Wasco County Sheriff's Office",
+  "image": "/logos/agency/wasco-s.png",
+  "url": "http://www.co.wasco.or.us/departments/sheriff/index.php",
+  "officers": 32,
+  "population": 11855,
+  "chief": "",
+  "location": "The Dalles",
+  "county": "Wasco",
+  "region": "Gorge",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
