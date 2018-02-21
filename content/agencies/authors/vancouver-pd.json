@@ -1,0 +1,18 @@
+{
+  "id": "vancouver-pd",
+  "name": "Vancouver Police Department",
+  "image": "/logos/agency/vancouver-pd.png",
+  "url": "https://www.cityofvancouver.us/police",
+  "officers": 198,
+  "population": 167405,
+  "chief": "James McElvain",
+  "location": "Vancouver",
+  "county": "Clark",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
