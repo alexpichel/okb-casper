@@ -1,0 +1,18 @@
+{
+  "id": "washington-cc",
+  "name": "Washington County Community Corrections",
+  "image": "/logos/agency/washington-cc.png",
+  "url": "https://www.co.washington.or.us/communitycorrections/",
+  "officers": 250,
+  "population": 323614,
+  "chief": "Steve Berger",
+  "location": "Hillsboro",
+  "county": "Washington",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
