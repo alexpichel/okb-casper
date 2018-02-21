@@ -1,0 +1,18 @@
+{
+  "id": "umatilla-tribal-pd",
+  "name": "Umatilla Tribal Police Department",
+  "image": "/logos/agency/umatilla-tribal-pd.png",
+  "url": "http://ctuir.org/tribal-services/public-safety/police-station",
+  "officers": 28,
+  "population": 2927,
+  "chief": "Timothy Addleman",
+  "location": "Pendleton",
+  "county": "Umatilla",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
