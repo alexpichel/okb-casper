@@ -1,0 +1,18 @@
+{
+  "id": "troutdale-pd",
+  "name": "Troutdale Police Department",
+  "image": "/logos/agency/troutdale-pd.png",
+  "url": "Multnomah sheriff?",
+  "officers": 30,
+  "population": 16000,
+  "chief": "",
+  "location": "Troutdale",
+  "county": "Multnomah",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
