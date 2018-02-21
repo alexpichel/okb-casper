@@ -1,0 +1,18 @@
+{
+  "id": "talent-pd",
+  "name": "Talent Police Department",
+  "image": "/logos/agency/talent-pd.png",
+  "url": "http://www.cityoftalent.org/SectionIndex.asp?SectionID=8",
+  "officers": 8,
+  "population": 6224,
+  "chief": "Curtis Whipple",
+  "location": "Talent",
+  "county": "Jackson",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
