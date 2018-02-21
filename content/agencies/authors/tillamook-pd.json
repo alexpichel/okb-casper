@@ -1,0 +1,18 @@
+{
+  "id": "tillamook-pd",
+  "name": "Tillamook Police Department",
+  "image": "/logos/agency/tillamook-pd.png",
+  "url": "http://tillamookor.gov/police-department/",
+  "officers": 16,
+  "population": 4800,
+  "chief": "Terry Wright",
+  "location": "Tillamook",
+  "county": "Tillamook",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
