@@ -1,0 +1,18 @@
+{
+  "id": "yamhill-pd",
+  "name": "Yamhill Police Department",
+  "image": "/logos/agency/yamhill-pd.png",
+  "url": "https://cityofyamhill.org/police-department/",
+  "officers": 3,
+  "population": 1026,
+  "chief": "Greg Graven",
+  "location": "Yamhill",
+  "county": "Yamhill",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
