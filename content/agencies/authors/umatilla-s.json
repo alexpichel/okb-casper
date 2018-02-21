@@ -1,0 +1,18 @@
+{
+  "id": "umatilla-s",
+  "name": "Umatilla County Sheriff's Office",
+  "image": "/logos/agency/umatilla-s.png",
+  "url": "http://www.co.umatilla.or.us/sheriff/",
+  "officers": 43,
+  "population": 25205,
+  "chief": "Terry Rowan",
+  "location": "Pendleton",
+  "county": "Umatilla",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
