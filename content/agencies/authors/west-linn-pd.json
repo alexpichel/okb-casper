@@ -1,0 +1,18 @@
+{
+  "id": "west-linn-pd",
+  "name": "West Linn Police Department",
+  "image": "/logos/agency/west-linn-pd.png",
+  "url": "http://westlinnoregon.gov/police",
+  "officers": 30,
+  "population": 25992,
+  "chief": "",
+  "location": "West Linn",
+  "county": "Clackamas",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
