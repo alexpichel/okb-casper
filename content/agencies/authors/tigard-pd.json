@@ -1,0 +1,18 @@
+{
+  "id": "tigard-pd",
+  "name": "Tigard Police Department",
+  "image": "/logos/agency/tigard-pd.png",
+  "url": "http://www.tigard-or.gov/police/",
+  "officers": 68,
+  "population": 50444,
+  "chief": "Kathy McAlpine",
+  "location": "Tigard",
+  "county": "Washington",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
