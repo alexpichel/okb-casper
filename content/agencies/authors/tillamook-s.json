@@ -1,0 +1,18 @@
+{
+  "id": "tillamook-s",
+  "name": "Tillamook County Sheriff's Office",
+  "image": "/logos/agency/tillamook-s.png",
+  "url": "http://www.co.tillamook.or.us/gov/Jail/",
+  "officers": 25,
+  "population": 18835,
+  "chief": "Andy Long",
+  "location": "Tillamook",
+  "county": "Tillamook",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
