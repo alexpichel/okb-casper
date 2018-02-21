@@ -1,0 +1,18 @@
+{
+  "id": "uofo-pd",
+  "name": "University of Oregon Police Department",
+  "image": "/logos/agency/uofo-pd.png",
+  "url": "https://police.uoregon.edu/",
+  "officers": 13,
+  "population": 24125,
+  "chief": "",
+  "location": "Eugene",
+  "county": "Lane",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
