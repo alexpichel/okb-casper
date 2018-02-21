@@ -1,0 +1,18 @@
+{
+  "id": "washington-s",
+  "name": "Washington County Sheriff's Office",
+  "image": "/logos/agency/washington-s.png",
+  "url": "https://www.co.washington.or.us/sheriff/",
+  "officers": 499,
+  "population": 254216,
+  "chief": "Pat Garrett",
+  "location": "Hillsboro",
+  "county": "Washington",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
