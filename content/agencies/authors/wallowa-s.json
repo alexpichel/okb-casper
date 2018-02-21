@@ -1,0 +1,18 @@
+{
+  "id": "wallowa-s",
+  "name": "Wallowa County Sheriff's Office",
+  "image": "/logos/agency/wallowa-s.png",
+  "url": "http://co.wallowa.or.us/public-safety/sheriff/",
+  "officers": 8,
+  "population": 5160,
+  "chief": "Steve Rogers",
+  "location": "Enterprise",
+  "county": "Wallowa",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
