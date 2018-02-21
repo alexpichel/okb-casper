@@ -1,0 +1,18 @@
+{
+  "id": "warm-springs-pd",
+  "name": "Warm Springs Police Department",
+  "image": "/logos/agency/warm-springs-pd.png",
+  "url": "https://warmsprings-nsn.gov/program/police-department/",
+  "officers": 42,
+  "population": 2431,
+  "chief": "",
+  "location": "Warm Springs",
+  "county": "Jefferson",
+  "region": "Central",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
