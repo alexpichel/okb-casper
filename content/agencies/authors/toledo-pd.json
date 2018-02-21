@@ -1,0 +1,18 @@
+{
+  "id": "toledo-pd",
+  "name": "Toledo Police Department",
+  "image": "/logos/agency/toledo-pd.png",
+  "url": "http://www.cityoftoledo.org/police-department/",
+  "officers": 7,
+  "population": 3466,
+  "chief": "David Enyeart",
+  "location": "Toledo",
+  "county": "Lincoln",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
