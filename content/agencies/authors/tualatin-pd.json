@@ -1,0 +1,18 @@
+{
+  "id": "tualatin-pd",
+  "name": "Tualatin Police Department",
+  "image": "/logos/agency/tualatin-pd.png",
+  "url": "https://www.tualatinoregon.gov/police",
+  "officers": 38,
+  "population": 26879,
+  "chief": "Bill Steele",
+  "location": "Tualatin",
+  "county": "Washington",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
