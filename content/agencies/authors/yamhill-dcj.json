@@ -1,0 +1,18 @@
+{
+  "id": "yamhill-dcj",
+  "name": "Yamhill County Department of Community Justice",
+  "image": "/logos/agency/yamhill-dcj.png",
+  "url": "http://www.co.yamhill.or.us/corrections",
+  "officers": 13,
+  "population": 100725,
+  "chief": "Jessica Beach",
+  "location": "McMinnville",
+  "county": "Yamhill",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
