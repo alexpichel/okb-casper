@@ -1,0 +1,18 @@
+{
+  "id": "yamhill-s",
+  "name": "Yamhill County Sheriff's Office",
+  "image": "/logos/agency/yamhill-s.png",
+  "url": "http://www.co.yamhill.or.us/sheriff",
+  "officers": 64,
+  "population": 39650,
+  "chief": "Tim Svenson",
+  "location": "McMinnville",
+  "county": "Yamhill",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
