@@ -1,0 +1,18 @@
+{
+  "id": "wheeler-s",
+  "name": "Wheeler County Sheriff's Office",
+  "image": "/logos/agency/wheeler-s.png",
+  "url": "http://www.wheelercountyoregon.com/sheriffs-office",
+  "officers": 9,
+  "population": 1441,
+  "chief": "Chris Humphreys",
+  "location": "Fossil",
+  "county": "Wheeler",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
