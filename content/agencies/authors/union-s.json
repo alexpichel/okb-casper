@@ -1,0 +1,18 @@
+{
+  "id": "union-s",
+  "name": "Union County Sheriff's Office",
+  "image": "/logos/agency/union-s.png",
+  "url": "http://unioncountysheriff.us/",
+  "officers": 13,
+  "population": 13460,
+  "chief": "Boyd Rasmussen",
+  "location": "LaGrande",
+  "county": "Union",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
