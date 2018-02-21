@@ -1,0 +1,18 @@
+{
+  "id": "warrenton-pd",
+  "name": "Warrenton Police Department",
+  "image": "/logos/agency/warrenton-pd.png",
+  "url": "http://www.ci.warrenton.or.us/police",
+  "officers": 11,
+  "population": 5135,
+  "chief": "Mathew J. Workman",
+  "location": "Warrenton",
+  "county": "Clatsop",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
