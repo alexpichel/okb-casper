@@ -1,0 +1,18 @@
+{
+  "id": "woodburn-pd",
+  "name": "Woodburn Police Department",
+  "image": "/logos/agency/woodburn-pd.png",
+  "url": "https://www.woodburn-or.gov/?q=police",
+  "officers": 34,
+  "population": 24395,
+  "chief": "James C. Ferraris",
+  "location": "Woodburn",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
