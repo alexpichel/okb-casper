@@ -1,0 +1,18 @@
+{
+  "id": "vernonia-pd",
+  "name": "Vernonia Police Department",
+  "image": "/logos/agency/vernonia-pd.png",
+  "url": "http://vpd.vernonia-or.gov/",
+  "officers": 4,
+  "population": 2300,
+  "chief": "Michael Conner",
+  "location": "Vernonia",
+  "county": "Columbia",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
