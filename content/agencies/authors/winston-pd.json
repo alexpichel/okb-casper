@@ -1,0 +1,18 @@
+{
+  "id": "winston-pd",
+  "name": "Winston Police Department",
+  "image": "/logos/agency/winston-pd.png",
+  "url": "http://www.winstonpd.com/",
+  "officers": 16,
+  "population": 6095,
+  "chief": "Scott Gugel",
+  "location": "Winston",
+  "county": "Douglas",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
