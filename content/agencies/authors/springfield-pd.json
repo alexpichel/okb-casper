@@ -1,0 +1,18 @@
+{
+  "id": "springfield-pd",
+  "name": "Springfield Police Department",
+  "image": "/logos/agency/springfield-pd.png",
+  "url": "http://www.ci.springfield.or.us/dept_pol.htm",
+  "officers": 69,
+  "population": 60177,
+  "chief": "Richard Lewis",
+  "location": "Springfield",
+  "county": "Lane",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
