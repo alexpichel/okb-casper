@@ -1,0 +1,18 @@
+{
+  "id": "sherwood-pd",
+  "name": "Sherwood Police Department",
+  "image": "/logos/agency/sherwood-pd.png",
+  "url": "https://www.sherwoodoregon.gov/police",
+  "officers": 23,
+  "population": 18884,
+  "chief": "Jeff Groth",
+  "location": "Sherwood",
+  "county": "Washington",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
