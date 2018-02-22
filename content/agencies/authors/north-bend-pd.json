@@ -1,0 +1,18 @@
+{
+  "id": "north-bend-pd",
+  "name": "North Bend Police Department",
+  "image": "/logos/agency/north-bend-pd.png",
+  "url": "http://www.northbendoregon.us/police",
+  "officers": 17,
+  "population": 9545,
+  "chief": "Robert Kappelman",
+  "location": "North Bend",
+  "county": "Coos",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
