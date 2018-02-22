@@ -1,0 +1,18 @@
+{
+  "id": "oakridge-pd",
+  "name": "Oakridge Police Department",
+  "image": "/logos/agency/oakridge-pd.png",
+  "url": "http://www.ci.oakridge.or.us/general/page/police",
+  "officers": 5,
+  "population": 3196,
+  "chief": "",
+  "location": "Oakridge",
+  "county": "Lane",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
