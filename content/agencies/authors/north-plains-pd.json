@@ -1,0 +1,18 @@
+{
+  "id": "north-plains-pd",
+  "name": "North Plains Police Department",
+  "image": "/logos/agency/north-plains-pd.png",
+  "url": "http://cityofnp.org/index.php/departments/police/",
+  "officers": 3,
+  "population": 2000,
+  "chief": "Jesse Baker",
+  "location": "North Plains",
+  "county": "Washington",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
