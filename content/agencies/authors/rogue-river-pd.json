@@ -1,0 +1,18 @@
+{
+  "id": "rogue-river-pd",
+  "name": "Rogue River Police Department",
+  "image": "/logos/agency/rogue-river-pd.png",
+  "url": "http://cityofrogueriver.org/police-home",
+  "officers": 5,
+  "population": 2350,
+  "chief": "Chris Snyder",
+  "location": "Rogue River",
+  "county": "Jackson",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
