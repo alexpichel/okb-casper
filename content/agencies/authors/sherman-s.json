@@ -1,0 +1,18 @@
+{
+  "id": "sherman-s",
+  "name": "Sherman County Sheriff's Office",
+  "image": "/logos/agency/sherman-s.png",
+  "url": "https://www.co.sherman.or.us/departments/sheriff/",
+  "officers": 8,
+  "population": 1680,
+  "chief": "Brad Lohrey",
+  "location": "Moro",
+  "county": "Sherman",
+  "region": "Gorge",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
