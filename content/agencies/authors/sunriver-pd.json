@@ -1,0 +1,18 @@
+{
+  "id": "sunriver-pd",
+  "name": "Sunriver Police Department",
+  "image": "/logos/agency/sunriver-pd.png",
+  "url": "http://www.sunriverpd.org/",
+  "officers": 11,
+  "population": 1393,
+  "chief": "Marc Mills",
+  "location": "Sunriver",
+  "county": "Deschutes",
+  "region": "Central",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
