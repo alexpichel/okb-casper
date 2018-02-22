@@ -1,0 +1,18 @@
+{
+  "id": "sutherlin-pd",
+  "name": "Sutherlin Police Department",
+  "image": "/logos/agency/sutherlin-pd.png",
+  "url": "http://www.ci.sutherlin.or.us/departments/police_department/index.php",
+  "officers": 13,
+  "population": 7746,
+  "chief": "Troy Mills",
+  "location": "Sutherlin",
+  "county": "Douglas",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
