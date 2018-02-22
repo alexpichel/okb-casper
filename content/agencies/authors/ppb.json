@@ -1,0 +1,18 @@
+{
+  "id": "ppb",
+  "name": "Portland Police Bureau",
+  "image": "/logos/agency/ppb.png",
+  "url": "https://www.portlandoregon.gov/police/",
+  "officers": 885,
+  "population": 609456,
+  "chief": "Danielle Outlaw",
+  "location": "Portland",
+  "county": "Multnomah",
+  "region": "Metro"
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
