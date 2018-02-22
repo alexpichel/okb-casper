@@ -1,0 +1,18 @@
+{
+  "id": "scappoose-pd",
+  "name": "Scappoose Police Department",
+  "image": "/logos/agency/scappoose-pd.png",
+  "url": "http://www.ci.scappoose.or.us/police",
+  "officers": 10,
+  "population": 6802,
+  "chief": "Norman Miller",
+  "location": "Scappoose",
+  "county": "Columbia",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
