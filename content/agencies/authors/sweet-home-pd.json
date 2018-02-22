@@ -1,0 +1,18 @@
+{
+  "id": "sweet-home-pd",
+  "name": "Sweet Home Police Department",
+  "image": "/logos/agency/sweet-home-pd.png",
+  "url": "http://www.sweet-home.or.us/police",
+  "officers": 15,
+  "population": 9052,
+  "chief": "Jeff W. Lynn",
+  "location": "Sweet Home",
+  "county": "Linn",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
