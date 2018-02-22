@@ -1,0 +1,18 @@
+{
+  "id": "osp",
+  "name": "Oregon State Police",
+  "image": "/logos/agency/osp.png",
+  "url": "http://www.oregon.gov/osp/Pages/index.aspx",
+  "officers": 695,
+  "population": 4030000,
+  "chief": "Travis Hampton",
+  "location": "Salem",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
