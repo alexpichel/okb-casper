@@ -1,0 +1,18 @@
+{
+  "id": "seaside-pd",
+  "name": "Seaside Police Department",
+  "image": "/logos/agency/seaside-pd.png",
+  "url": "http://police.cityofseaside.us/contact-information",
+  "officers": 19,
+  "population": 6453,
+  "chief": "Dave Ham",
+  "location": "Seaside",
+  "county": "Clatsop",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
