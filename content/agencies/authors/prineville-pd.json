@@ -1,0 +1,19 @@
+
+{
+  "id": "prineville-pd",
+  "name": "Prineville Police Department",
+  "image": "/logos/agency/prineville-pd.png",
+  "url": "http://www.cityofprineville.com/police",
+  "officers": 18,
+  "population": 9700,
+  "chief": "Dale Cummins",
+  "location": "Prineville",
+  "county": "Crook",
+  "region": "Central",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
