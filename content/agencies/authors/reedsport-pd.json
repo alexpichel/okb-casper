@@ -1,0 +1,18 @@
+{
+  "id": "reedsport-pd",
+  "name": "Reedsport Police Department",
+  "image": "/logos/agency/reedsport-pd.png",
+  "url": "http://www.cityofreedsport.org/index.asp?Type=B_BASIC&SEC=%7B72008250-A773-4375-AB59-4909AFEAC164%7D",
+  "officers": 10,
+  "population": 4111,
+  "chief": "Duane Wisehart",
+  "location": "Reedsport",
+  "county": "Douglas",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
