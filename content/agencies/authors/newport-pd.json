@@ -1,0 +1,18 @@
+{
+  "id": "newport-pd",
+  "name": "Newport Police Department",
+  "image": "/logos/agency/newport-pd.png",
+  "url": "http://newportoregon.gov/dept/npd/",
+  "officers": 20,
+  "population": 10117,
+  "chief": "Jason Malloy",
+  "location": "Newport",
+  "county": "Lincoln",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
