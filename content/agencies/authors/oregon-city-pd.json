@@ -1,0 +1,18 @@
+{
+   "id": "oregon-city-pd",
+   "name": "Oregon City Police Department",
+   "image": "/logos/agency/oregon-city-pd.png",
+   "url": "https://www.orcity.org/police",
+   "officers": 35,
+   "population": 34622,
+   "chief": "Jim Band",
+   "location": "Oregon City",
+   "county": "Clackamas",
+   "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
