@@ -1,0 +1,18 @@
+{
+  "id": "sandy-pd",
+  "name": "Sandy Police Department",
+  "image": "/logos/agency/sandy-pd.png",
+  "url": "https://www.ci.sandy.or.us/Sandy-Police-Department/",
+  "officers": 16,
+  "population": 10014,
+  "chief": "Ernie Roberts",
+  "location": "Sandy",
+  "county": "Clackamas",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
