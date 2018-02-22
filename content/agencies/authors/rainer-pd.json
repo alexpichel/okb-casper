@@ -1,0 +1,18 @@
+{
+  "id": "rainer-pd",
+  "name": "Rainer Police Department",
+  "image": "/logos/agency/rainer-pd.png",
+  "url": "http://www.cityofrainier.com/?view=policedepartment",
+  "officers": 11,
+  "population": 1900,
+  "chief": "Gregg Griffith",
+  "location": "Rainer",
+  "county": "Columbia",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
