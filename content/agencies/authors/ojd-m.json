@@ -1,0 +1,18 @@
+{
+  "id": "ojd-m",
+  "name": "Oregon Judicial Department - Marshal's Office",
+  "image": "/logos/agency/ojd-m.png",
+  "url": "http://www.courts.oregon.gov/Pages/default.aspx",
+  "officers": 3,
+  "population": 0,
+  "chief": "",
+  "location": "Salem",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
