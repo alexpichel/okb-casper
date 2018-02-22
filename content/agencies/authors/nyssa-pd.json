@@ -1,0 +1,18 @@
+{
+  "id": "nyssa-pd",
+  "name": "Nyssa Police Department",
+  "image": "/logos/agency/nyssa-pd.png",
+  "url": "http://www.nyssacity.org/police.html",
+  "officers": 7,
+  "population": 3199,
+  "chief": "Raymond Rau",
+  "location": "Nyssa",
+  "county": "Malheur",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
