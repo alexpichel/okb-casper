@@ -1,0 +1,18 @@
+{
+  "id": "pilot-rock-pd",
+  "name": "Pilot Rock Police Department",
+  "image": "/logos/agency/pilot-rock-pd.png",
+  "url": "http://www.cityofpilotrock.org/police_home",
+  "officers": 2,
+  "population": 1510,
+  "chief": "William Caldera",
+  "location": "Pilot Rock",
+  "county": "Umatilla",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
