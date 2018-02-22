@@ -1,0 +1,18 @@
+{
+  "id": "pendleton-pd",
+  "name": "Pendleton Police Department",
+  "image": "/logos/agency/pendleton-pd.png",
+  "url": "http://ppd.pendleton.or.us/",
+  "officers": 24,
+  "population": 16935,
+  "chief": "Stuart Roberts",
+  "location": "Pendleton",
+  "county": "Umatilla",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
