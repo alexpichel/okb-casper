@@ -1,0 +1,18 @@
+{
+  "id": "myrtle-creek-pd",
+  "name": "Myrtle Creek Police Department",
+  "image": "/logos/agency/myrtle-creek-pd.png",
+  "url": "http://www.cityofmyrtlecreek.com/city_departments/police.php",
+  "officers": 12,
+  "population": 3460,
+  "chief": "Don Brown",
+  "location": "Myrtle Creek",
+  "county": "Douglas",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
