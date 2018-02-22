@@ -1,0 +1,18 @@
+{
+  "id": "st-helens-pd",
+  "name": "St. Helens Police Department",
+  "image": "/logos/agency/st-helens-pd.png",
+  "url": "https://www.ci.st-helens.or.us/police",
+  "officers": 15,
+  "population": 13060,
+  "chief": "Terry Moss",
+  "location": "St. Helens",
+  "county": "Columbia",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
