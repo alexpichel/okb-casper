@@ -1,0 +1,18 @@
+{
+  "id": "psu-pd",
+  "name": "Portland State University Police Department",
+  "image": "/logos/agency/psu-pd.png",
+  "url": "https://www.pdx.edu/cpso/campus-police",
+  "officers": 7,
+  "population": 28076,
+  "chief": "Donnell Tanksley",
+  "location": "Portland",
+  "county": "Multnomah",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
