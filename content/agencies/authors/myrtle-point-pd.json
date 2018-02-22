@@ -1,0 +1,18 @@
+{
+  "id": "myrtle-point-pd",
+  "name": "Myrtle Point Police Department",
+  "image": "/logos/agency/myrtle-point-pd.png",
+  "url": "http://www.ci.myrtlepoint.or.us/general/page/myrtle-point-police-department",
+  "officers": 5,
+  "population": 2476,
+  "chief": "Rock Rakosi",
+  "location": "Myrtle Point",
+  "county": "Coos",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
