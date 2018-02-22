@@ -1,0 +1,18 @@
+{
+  "id": "rockaway-beach-pd",
+  "name": "Rockaway Beach Police Department",
+  "image": "/logos/agency/rockaway-beach-pd.png",
+  "url": "http://rockawaybeachor.us/index.asp?SEC=2F5CACA4-0557-46AA-B66B-98316538E52B&Type=B_BASIC",
+  "officers": 4,
+  "population": 1308,
+  "chief": "Charlie Stewart",
+  "location": "Rockaway Beach",
+  "county": "Tillamook",
+  "region": "Coast"
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
