@@ -1,0 +1,18 @@
+{
+  "id": "stayton-pd",
+  "name": "Stayton Police Department",
+  "image": "/logos/agency/stayton-pd.png",
+  "url": "http://www.staytonoregon.gov/page/police_home",
+  "officers": 13,
+  "population": 7769,
+  "chief": "Rich Sebens",
+  "location": "Stayton",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
