@@ -1,0 +1,18 @@
+{
+  "id": "stanfield-pd",
+  "name": "Stanfield Police Department",
+  "image": "/logos/agency/stanfield-pd.png",
+  "url": "http://www.cityofstanfield.com/staff-directory",
+  "officers": 10,
+  "population": 2100,
+  "chief": "Bryon Zumwalt",
+  "location": "Stanfield",
+  "county": "Umatilla",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
