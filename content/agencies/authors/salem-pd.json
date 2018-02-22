@@ -1,0 +1,18 @@
+{
+  "id": "salem-pd",
+  "name": "Salem Police Department",
+  "image": "/logos/agency/salem-pd.png",
+  "url": "https://www.cityofsalem.net/police",
+  "officers": 187,
+  "population": 160614,
+  "chief": "Jerry Moore",
+  "location": "Salem",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
