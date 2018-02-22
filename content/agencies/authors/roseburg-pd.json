@@ -1,0 +1,18 @@
+{
+  "id": "roseburg-pd",
+  "name": "Roseburg Police Department",
+  "image": "/logos/agency/roseburg-pd.png",
+  "url": "http://www.cityofroseburg.org/departments/police-department/",
+  "officers": 37,
+  "population": 21968,
+  "chief": "Jim Burge",
+  "location": "Roseburg",
+  "county": "Douglas",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
