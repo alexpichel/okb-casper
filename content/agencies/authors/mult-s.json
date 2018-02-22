@@ -1,0 +1,18 @@
+{
+  "id": "mult-s",
+  "name": "Multnomah County Sheriff's Office",
+  "image": "/logos/agency/mult-s.png",
+  "url": "https://www.mcso.us/",
+  "officers": 444,
+  "population": 47921,
+  "chief": "Michael Reese",
+  "location": "Portland",
+  "county": "Multnomah",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
