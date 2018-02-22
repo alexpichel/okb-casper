@@ -1,0 +1,18 @@
+{
+  "id": "newberg-dundee-pd",
+  "name": "Newberg-Dundee Police Department",
+  "image": "/logos/agency/newberg-dundee-pd.png",
+  "url": "http://www.newbergoregon.gov/police",
+  "officers": 35,
+  "population": 25684,
+  "chief": "Brian Casey",
+  "location": "Newberg",
+  "county": "Yamhill",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
