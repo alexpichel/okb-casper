@@ -1,0 +1,18 @@
+{
+  "id": "silverton-pd",
+  "name": "Silverton Police Department",
+  "image": "/logos/agency/silverton-pd.png",
+  "url": "https://www.silverton.or.us/124/Police",
+  "officers": 17,
+  "population": 9369,
+  "chief": "Jeff Fossholm",
+  "location": "Silverton",
+  "county": "Marion",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
