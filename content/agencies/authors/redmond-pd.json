@@ -1,0 +1,18 @@
+{
+  "id": "redmond-pd",
+  "name": "Redmond Police Department",
+  "image": "/logos/agency/redmond-pd.png",
+  "url": "http://www.ci.redmond.or.us/government/departments/police",
+  "officers": 38,
+  "population": 27427,
+  "chief": "Dave Tarbet",
+  "location": "Redmond",
+  "county": "Deschutes",
+  "region": "Central",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
