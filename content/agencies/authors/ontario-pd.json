@@ -1,0 +1,18 @@
+{
+  "id": "ontario-pd",
+  "name": "Ontario Police Department",
+  "image": "/logos/agency/ontario-pd.png",
+  "url": "http://www.ontariooregon.org/police_main.cfm",
+  "officers": 22,
+  "population": 11415,
+  "chief": "Cal Kunz",
+  "location": "Ontario",
+  "county": "Malheur",
+  "region": "Eastern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
