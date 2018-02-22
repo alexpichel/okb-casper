@@ -1,0 +1,18 @@
+{
+  "id": "portland-oni",
+  "name": "Portland Crime Prevention and Livability Programs",
+  "image": "/logos/agency/portland-oni.png",
+  "url": "https://www.portlandoregon.gov/oni/",
+  "officers": 30,
+  "population": 613355,
+  "chief": "",
+  "location": "Portland",
+  "county": "Multnomah",
+  "region": "Metro",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
