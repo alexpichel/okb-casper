@@ -1,0 +1,19 @@
+
+{
+  "id": "ohsu-pd",
+  "name": "Oregon Health & Science University Police Department",
+  "image": "/logos/agency/ohsu-pd.png",
+  "url": "http://www.ohsu.edu/xd/about/services/public-safety/",
+  "officers": 28,
+  "population": 0,
+  "chief": "Heath Kula",
+  "location": "Portland",
+  "county": "Multnomah",
+  "region": "Metro",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
