@@ -1,0 +1,18 @@
+{
+  "id": "philomath-pd",
+  "name": "Philomath Police Department",
+  "image": "/logos/agency/philomath-pd.png",
+  "url": "http://www.ci.philomath.or.us/police/PD%2520Home%25202007.htm",
+  "officers": 9,
+  "population": 4574,
+  "chief": "Ken Rueben",
+  "location": "Philomath",
+  "county": "Benton",
+  "region": "Willamette Valley",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
