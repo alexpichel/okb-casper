@@ -1,0 +1,18 @@
+{
+  "id": "phoenix-pd",
+  "name": "Phoenix Police Department",
+  "image": "/logos/agency/phoenix-pd.png",
+  "url": "http://www.phoenixoregon.gov/police",
+  "officers": 12,
+  "population": 4800,
+  "chief": "Derek Bowker",
+  "location": "Phoenix",
+  "county": "Jackson",
+  "region": "Southern",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
