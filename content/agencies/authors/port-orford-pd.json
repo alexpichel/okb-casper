@@ -1,0 +1,18 @@
+{
+  "id": "port-orford-pd",
+  "name": "Port Orford Police Department",
+  "image": "/logos/agency/port-orford-pd.png",
+  "url": "https://www.portorford.org/police.html",
+  "officers": 4,
+  "population": 1137,
+  "chief": "Hank Hobart",
+  "location": "Port Orford",
+  "county": "Curry",
+  "region": "Coast",
+  "bio": "",
+  "socialUrls": [
+    "",
+    "",
+    ""
+  ]
+}
