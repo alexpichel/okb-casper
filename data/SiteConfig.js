@@ -19,7 +19,7 @@ module.exports = {
   sitePaginationLimit: 25, // The max number of posts per page.
   googleAnalyticsID: "", // GA tracking ID.
   siteSocialUrls: [
-    "https://facebook.com",
+    "https://facebook.com/oregonknowledgebank",
     "https://twitter.com/ORKnowledgeBank",
     "mailto:okb@oregon.gov"
   ],
